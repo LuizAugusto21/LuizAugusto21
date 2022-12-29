@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuizAugusto21
+- 👋 Hi, I’m Luiz
 # 💫 About Me:
 Hi, i'm a IT student from Universidade Federal do Rio Grande do Norte(UFRN) with front-end skills like, HTML5<br>CSS, JavaScript and React Js. I'm currently learning Flutter to<br>mobile development.
 
